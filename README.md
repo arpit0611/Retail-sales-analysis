@@ -149,6 +149,4 @@ The following are **suggested follow-up analyses**, not proven causes or guarant
 - **Missing context:** There is no customer-level, marketing, promotion, or inventory data to explain trends or establish cause and effect.
 - **Cleaning assumptions:** Missing discounts were treated as zero, and missing cities were labelled `Unknown`.
 - **Dataset size and scope:** One year of data is suitable for practice but not for forecasting business performance reliably.
----
-
-**Project takeaway:** This exercise demonstrates a complete beginner-friendly analytics workflow: **raw data → cleaning → KPI calculations → visualization → interpretation → next questions**. The emphasis is on reproducible methods and careful communication of what the data can—and cannot—show.
+--
